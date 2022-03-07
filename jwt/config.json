@@ -1,0 +1,10 @@
+{
+    "database":{
+        "host":"localhost",
+        "port":3306,
+        "user":"root",
+        "password":"",
+        "database":"karyawan"
+    },
+    "secret":"VERIVIKASI TOKEN JWT, GANTI DENGAN SECRET ANDA SENDIRI, BISA STRING APAPUN"
+}
